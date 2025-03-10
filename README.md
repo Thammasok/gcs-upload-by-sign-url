@@ -10,10 +10,16 @@ This project demonstrates how to use Google Cloud Storage signed URLs to securel
 ## Install and run
 
 Install dependencies:
-```npm install```
+
+```bash
+npm install
+```
 
 Run the development server:
-```npm run dev```
+
+```bash
+npm run dev
+```
 
 ## How It Works
 
