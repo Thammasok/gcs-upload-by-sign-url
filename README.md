@@ -9,8 +9,11 @@ This project demonstrates how to use Google Cloud Storage signed URLs to securel
 
 ## Install and run
 
-`npm install`
-`npm run dev`
+Install dependencies:
+```npm install```
+
+Run the development server:
+```npm run dev```
 
 ## How It Works
 
@@ -22,6 +25,6 @@ This project demonstrates how to use Google Cloud Storage signed URLs to securel
 
 - pages/api/signed-url.ts: Contains the API route for generating signed URLs.
 - pages/index.tsx: Contains the client-side code for uploading files using the signed URL.
-- Then check uploaded file at google cloud project `myorder-beta` bucket `gs-signed-url-upload-example`
+- Then check uploaded file at google cloud project `your-project` bucket `gs-signed-url-upload-example`
 
 **Contact armse if you have any questions**
