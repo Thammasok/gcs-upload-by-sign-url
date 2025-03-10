@@ -1,0 +1,19 @@
+[
+    {
+        "maxAgeSeconds": 3600,
+        "method": [
+            "PUT",
+            "GET"
+        ],
+        "origin": [
+            "http://localhost:3000"
+        ],
+        "responseHeader": [
+            "Content-Type",
+            "Access-Control-Allow-Origin",
+            "X-Goog-Acl",
+            "x-goog-content-length-range",
+            "Content-MD5"
+        ]
+    }
+]
