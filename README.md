@@ -4,7 +4,7 @@ This project demonstrates how to use Google Cloud Storage signed URLs to securel
 
 ## Prerequisites
 
-- Service account -> [Download](https://share.1password.com/s#kgCeJVWhZZD34Fl6u3nvP3WLLHzhrG680HMNGeoF0tI) (This link will expired soon, After that Modify this into your own!)
+- Service account -> get service account json file from GCP
 - Bring service account file name `gs-beta-demo-service-account.json` into root of project
 
 ## Install and run
